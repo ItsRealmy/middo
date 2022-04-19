@@ -1,0 +1,14 @@
+{
+  "name": "middo",
+  "version": "0.1.0",
+  "description": "A small HTTP middleware framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-match-path": "^0.6.3"
+  }
+}
